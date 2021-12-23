@@ -22,7 +22,7 @@ Edit your `composer.json` and add:
 ```json
 {
     "require": {
-       "glicer/sync-sftp": "dev-master"
+       "sdecalom/sync-sftp": "dev-master"
     },
     "prefer-stable": true,
     "minimum-stability": "dev"
