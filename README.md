@@ -13,7 +13,7 @@ and update files only on remote sftp server.
 
 ## Installation SFTP
 
-This library can be found on [Packagist](https://packagist.org/packages/glicer/sync-sftp).
+This library can be found on [Packagist](https://packagist.org/packages/sdecalom/sync-sftp).
 
 The recommended way to install is through [composer](http://getcomposer.org).
 
