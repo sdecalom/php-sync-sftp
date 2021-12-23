@@ -1,11 +1,15 @@
 {
-    "name": "glicer/sync-sftp",
+    "name": "sdecalom/sync-sftp",
     "type": "library",
     "description": "Sync local files with ftp server",
     "keywords": ["sync", "ftp", "file"],
-    "homepage": "https://github.com/emmanuelroecker/php-sync-ftp",
+    "homepage": "https://github.com/sdecalom/php-sync-ftp",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Sebastien",
+            "homepage": "http://dev.glicer.com"
+        },
         {
             "name": "Emmanuel ROECKER",
             "homepage": "http://dev.glicer.com"
