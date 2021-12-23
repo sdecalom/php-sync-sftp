@@ -11,7 +11,7 @@ Synchronize local files with sftp (ssh ftp) server.
 Compare dates between local and remote files, not using crc.(cyclic redundancy check),
 and update files only on remote sftp server.
 
-## Installation
+## Installation SFTP
 
 This library can be found on [Packagist](https://packagist.org/packages/glicer/sync-sftp).
 
