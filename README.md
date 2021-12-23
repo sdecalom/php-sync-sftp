@@ -131,6 +131,6 @@ Change ftp server config in file : phpunit.xml.dist
 
 ## Contact
 
-Authors : Emmanuel ROECKER & Rym BOUCHAGOUR
+Authors : Emmanuel ROECKER & Rym BOUCHAGOUR & Sebastien
 
 [Web Development Blog - http://dev.glicer.com](http://dev.glicer.com)
